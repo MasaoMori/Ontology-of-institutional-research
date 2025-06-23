@@ -1,1 +1,1 @@
-# Ontology-of-institutional-research
+# Ontology of institutional research
